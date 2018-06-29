@@ -27,7 +27,7 @@ import org.hibernate.annotations.Type;
 @Table(name = "Employee", catalog = "sample_hibernate")
 public class Employee implements java.io.Serializable {
 
-    private Integer empId;
+    private Integer empId; //hello
     private String name;
     private Integer age;
     private LocalDate dateOfBirth;
