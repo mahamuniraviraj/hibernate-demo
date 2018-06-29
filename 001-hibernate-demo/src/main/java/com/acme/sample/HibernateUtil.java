@@ -4,13 +4,7 @@
  *	Date    :   Jun 23, 2018
  *  Author  :   Raviraj S Mahamuni
  *
- * Copyright (c) 1993-2015 Acme Infovision Private Limited, Satara. All Rights Reserved.
- *
- * This software is the confidential and proprietary information of Acme Infovision
- * Private Limited. ("Confidential Information"). You shall not
- * disclose such Confidential Information and shall use it only in
- * accordance with the terms of the license agreement you entered into
- * with Acme.
+
  */
 
 
